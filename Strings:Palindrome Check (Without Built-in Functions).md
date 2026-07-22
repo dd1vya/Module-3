@@ -26,5 +26,7 @@ else:
 
 ## Output
 <img width="529" height="119" alt="image" src="https://github.com/user-attachments/assets/6dc216e9-e0ec-40f2-b6b7-55247e59ab4a" />
+
+
 ## Result
 Thus the program has been successfully executed
